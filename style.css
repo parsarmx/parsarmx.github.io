@@ -1,6 +1,5 @@
 body{
 	background: black;
-	tetx-align: center;
 }
 
 h1{
@@ -11,4 +10,8 @@ h1{
 p{
 	font-familt: arial;
 	color: white;
+}
+
+.body{
+	text-align: center;
 }
