@@ -12,6 +12,14 @@ p{
 	color: white;
 }
 
+a{
+	color: lime;
+}
+
 .body{
+	text-align: center;
+}
+
+.head{
 	text-align: center;
 }
